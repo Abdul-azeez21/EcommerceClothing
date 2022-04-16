@@ -1,0 +1,41 @@
+.body {
+  background-color: #fff;
+}
+.image {
+  background-image: url("../images/details-black-woman-wearing-grey-leather-coat-posing-beige-background-brown-bag-white-sunglasses-hands-autumn-winter-fashion-concept.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 80vh;
+  width: 100%;
+}
+.image1 {
+  background-image: url("../images/marcus-loke-xXJ6utyoSw0-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+}
+.cozy {
+  background-image: url("../images/mohamadreza-khashai-ziubUDopHmc-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 75vh;
+}
+.sport {
+  background-image: url("../images/julia-rekamie-Z72YujnOrlY-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 75vh;
+}
+.image-text {
+  text-align: center;
+  display: inline-block;
+  color: brown;
+}
+.suit {
+  background-image: url("../images/alexander-naglestad-RFhq0SrrgEg-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 80vh;
+  width: 100%;
+}
