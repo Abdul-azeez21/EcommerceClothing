@@ -344,35 +344,6 @@ const Shop = () => {
               </div>
             </div>
           </div>
-          <div class="row">
-            <div class="col-sm-12 col-md-6 col-lg-6">
-              <ul class="pagination pull-right">
-                <li class="disabled">
-                  <a href="#">«</a>
-                </li>
-                <li class="active">
-                  <a href="#">
-                    1 <span class="sr-only">(current)</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="#">2</a>
-                </li>
-                <li>
-                  <a href="#">3</a>
-                </li>
-                <li>
-                  <a href="#">4</a>
-                </li>
-                <li>
-                  <a href="#">5</a>
-                </li>
-                <li>
-                  <a href="#">»</a>
-                </li>
-              </ul>
-            </div>
-          </div>
         </div>
       </div>
       <section>

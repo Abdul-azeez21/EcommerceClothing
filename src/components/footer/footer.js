@@ -13,17 +13,29 @@ const Footer = () => {
             <h5 class="mb-3">Brand</h5>
             <ul class="list-unstyled mb-0">
               <li class="mb-1">
-                <a href="#!" class="text-dark">
+                <a
+                  href="#!"
+                  class="text-dark"
+                  style={{ textDecoration: "none" }}
+                >
                   About
                 </a>
               </li>
               <li class="mb-1">
-                <a href="#!" class="text-dark">
+                <a
+                  href="#!"
+                  class="text-dark"
+                  style={{ textDecoration: "none" }}
+                >
                   Contact Us
                 </a>
               </li>
               <li class="mb-1">
-                <a href="#!" class="text-dark">
+                <a
+                  href="#!"
+                  class="text-dark"
+                  style={{ textDecoration: "none" }}
+                >
                   Guideshop Locations
                 </a>
               </li>

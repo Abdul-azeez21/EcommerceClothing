@@ -7,7 +7,7 @@ const Product = () => {
       <div class="container">
         <div class="card">
           <div class="card-body">
-            <h3 class="card-title">Product</h3>
+            <h3 class="card-title">O.A FW</h3>
             <h6 class="card-subtitle">Product</h6>
             <div class="row">
               <div class="col-lg-5 col-md-5 col-sm-12">
@@ -77,10 +77,7 @@ const Product = () => {
                       </tr>
                       <tr>
                         <td>Care</td>
-                        <td>
-                          Machine wash cold with like colors | Do not bleach |
-                          Tumble dry low | Remove promptly | Cool iron if needed
-                        </td>
+                        <td>Wash</td>
                       </tr>
                     </tbody>
                   </table>

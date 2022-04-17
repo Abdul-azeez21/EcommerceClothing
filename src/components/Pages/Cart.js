@@ -265,11 +265,11 @@ const Cart = () => {
               </div>
 
               <div class="card">
-                <div class="card-body">
+                <div class="card-body text-center">
                   <a
                     href="/payment"
                     type="button"
-                    class="btn btn-warning btn-block btn-lg"
+                    class="btn btn-warning btn-block "
                   >
                     Proceed to Pay
                   </a>
