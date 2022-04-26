@@ -16,7 +16,7 @@ const Menu = () => {
     <div class="container">
       <Navbar bg="white" expand="lg">
         <Navbar.Brand
-          href="#home"
+          href="/"
           class="display-6 text-dark"
           style={{ textDecoration: "none" }}
         >
